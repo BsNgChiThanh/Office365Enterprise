@@ -11,6 +11,14 @@
 
 ### TÀI KHOẢN OFFICE 365 A1+ ###
 
+|Tài khoản|Password|
+|--|--|
+|vbennett@twu.edu |Senior2014!|
+|vh5595@stu.armstrong.edu |Vanessa123| 
+|vw6244@stu.armstrong.edu |0kkky3aa| 
+|we2838@stu.armstrong.edu |whitney1|
+|wesleymirandadasilva@ied.edu |00BR0000022679|  
+
 ### KÍCH HOẠT BẰNG MASS TOOL ###
   - https://github.com/BsNgChiThanh/MAS-TOOL
   - Chạy kích hoạt xong là OK!
