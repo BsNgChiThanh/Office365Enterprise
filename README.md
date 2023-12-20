@@ -1,4 +1,4 @@
-# Office365Enterprise
+# Office 365 Enterprise
 ## CÀI ĐẶT: ##
 - Download source [Office 365 Enterprise]():
   - https://raw.githubusercontent.com/BsNgChiThanh/Office365Enterprise/IMP/OfficeSetup365Enterprise_32Bit.exe
